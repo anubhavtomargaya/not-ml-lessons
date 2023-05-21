@@ -17,3 +17,4 @@ lots of link in notebooks. Important to read all in there as they are the filter
 
 ### Links
 - [Notebooks with Kaggle datasets]('https://github.com/abhinavsagar/kaggle-notebooks/tree/master')
+- [Stochaistic process]('https://en.wikipedia.org/wiki/Stochastic_process')
