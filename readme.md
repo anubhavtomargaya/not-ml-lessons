@@ -14,3 +14,6 @@ avoiding using neural nets till statistical models arent understood and worked u
 nlp/embedding related ML notebooks not included in this folder. That is a different subject as of now.
 
 lots of link in notebooks. Important to read all in there as they are the filtered, top ones from a large pile of reading material.
+
+### Links
+- [Notebooks with Kaggle datasets]('https://github.com/abhinavsagar/kaggle-notebooks/tree/master')
